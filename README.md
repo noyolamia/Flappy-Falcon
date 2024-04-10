@@ -1,2 +1,2 @@
 # Flappy-Falcon
-The USAFA Version of Flappy Bird for CS Mobile Development Course
+The USAFA Version of Flappy Bird for CS Mobile Development Course Final Project
